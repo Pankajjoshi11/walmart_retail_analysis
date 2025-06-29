@@ -128,12 +128,4 @@ To derive insights from historical sales data and build a predictive model for c
 
 ---
 
-## 📫 Contact
-
-👤 **Pankaj Joshi**
-📧 [your.email@example.com](mailto:pankaj70451@gmail.com)
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pankaj-joshi-0b8103255/))
-
----
-
 ⭐ *If you found this project helpful, feel free to star the repository and share!*
