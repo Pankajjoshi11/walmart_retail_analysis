@@ -137,5 +137,3 @@ To derive insights from historical sales data and build a predictive model for c
 ---
 
 ⭐ *If you found this project helpful, feel free to star the repository and share!*
-
-```
